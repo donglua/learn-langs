@@ -1,4 +1,3 @@
-
 ## 安装Kotlin插件
 
 直接在偏好设置里的 plugins 页面中搜索 Kotlin、安装
